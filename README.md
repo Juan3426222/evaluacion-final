@@ -1,4 +1,5 @@
 🙌 TaskManagerPro
+
 📌 Descripción del sistema
 TaskManagerPro es una aplicación Java que permite gestionar tareas utilizando principios sólidos de diseño.
 El sistema permite crear tareas, clonarlas, ejecutar tareas externas adaptadas al sistema interno, notificar por distintos medios y recorrer colecciones de tareas con facilidad.
